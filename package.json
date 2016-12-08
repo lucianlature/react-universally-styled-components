@@ -31,7 +31,8 @@
     "universal",
     "javascript",
     "express",
-    "webpack"
+    "webpack",
+    "styled-components"
   ],
   "contributors": [
     "Sean Matheson <sean@ctrlplusb.com>",
@@ -43,7 +44,8 @@
     "Joe Kohlmann <kohlmannj@mac.com>",
     "Evgeny Boxer",
     "Alin Porumb",
-    "David Edmondson"
+    "David Edmondson",
+    "Lucian Lature <lucian.lature@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
@@ -67,6 +69,7 @@
     "react-router": "4.0.0-alpha.6",
     "serialize-javascript": "1.3.0",
     "source-map-support": "0.4.6",
+    "styled-components": "1.1.2",
     "user-home": "2.0.0",
     "uuid": "3.0.1"
   },
