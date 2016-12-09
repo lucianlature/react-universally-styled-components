@@ -2,6 +2,8 @@
 
 ## Known Issues
   Currently there is an [issue](https://github.com/styled-components/styled-components/issues/157) trying to use `import` instead of `require` when working with `styled-components`.
+  
+  Also, there is a [PR pending](https://github.com/styled-components/styled-components/pull/214) for SSR support, so this functionality is not _yet_ available for this branch.
 
 # About
 
