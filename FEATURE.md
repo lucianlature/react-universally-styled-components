@@ -13,7 +13,7 @@ It provides you with a simple Style Components integration.
 
 # About
 
-  This is the `incubator/stylesheets/styled-components` branch of the `react-universally` starter kit.
+  This is the `react-universally-styled-components` feature repository for `react-universally` starter kit.
 
   It provides you with the build tooling and configuration you need to kick off your next universal react project with full support for Styled Components.
 
