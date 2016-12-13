@@ -1,4 +1,10 @@
-# [![Styled Components logo](https://styled-components.com/static/media/logo.333814ad.png "Styled Components")](http://styled-components.com/)
+# Style - Styled Components
+
+[![Styled Components logo](https://styled-components.com/static/media/logo.333814ad.png "Styled Components")](http://styled-components.com/)
+
+This is a feature repository of [`react-universally`](https://github.com/ctrlplusb/react-universally), currently built against `v10.1.1`.
+
+It provides you with a simple Style Components integration.
 
 ## Known Issues
   Currently there is an [issue](https://github.com/styled-components/styled-components/issues/157) trying to use `import` instead of `require` when working with `styled-components`.
